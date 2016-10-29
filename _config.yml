@@ -7,10 +7,10 @@
 
 # Site settings
 title: Elige tu propia revolución
-email: info[@]rizoma.fair.coop
+email: nhk@linkedcode.com
 description: Guia para el autoestopista galactico revolucionario
 baseurl: "/etpr" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "https://coopintar.github.io/etpr" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
 github_username:  CoopIntAr
 

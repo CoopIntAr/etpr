@@ -2,6 +2,8 @@
 layout: page
 title: Comunicaciones
 permalink: /comunicaciones.html
+sitemap:
+    priority: 0.5
 ---
 
 Esta sección está dedicada a telefonía fija, celulares y redes libres.

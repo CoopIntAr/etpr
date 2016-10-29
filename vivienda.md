@@ -2,6 +2,8 @@
 layout: page
 title: Vivienda
 permalink: /vivienda.html
+sitemap:
+    priority: 0.5
 ---
 
 En el tema de la vivienda, la única propuesta aceptable es la cooperativa de vivienda de cesión de uso porque es la única que permite sacar a la vivienda del mercado capitalista.

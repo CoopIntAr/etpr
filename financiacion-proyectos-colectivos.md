@@ -2,6 +2,8 @@
 layout: page
 title: Financiación de Proyectos Colectivos
 permalink: /financiacion-proyectos-colectivos.html
+sitemap:
+    priority: 0.5
 ---
 
 Cualquier ahorro producto de la lectura de estas páginas debe ser destinado a financiar proyectos colectivos a través de <a href="bancos.html">bancos</a> sin interés o a la compra de <a href="moneda-social.html">moneda social</a> de cualquier cooperativa integral.
